@@ -1,0 +1,27 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1548553883128" stop="1548553883133">
+  <name>Scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1548553883128" status="passed" stop="1548553883133">
+      <name>test_allure.Test_01.test_001</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="28152-MainThread"/>
+        <label name="host" value="DESKTOP-8P43POF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1548553883133" status="passed" stop="1548553883133">
+          <name>第一个步骤</name>
+          <title>第一个步骤</title>
+          <attachments>
+            <attachment source="75d6368b-9132-4ad6-8fe8-e59ee4c2ec10-attachment.txt" title="wenjianm1" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
